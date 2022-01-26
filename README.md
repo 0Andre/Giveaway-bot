@@ -1,6 +1,6 @@
-# Bot-Status:
+# Programmier-Sprache:
 
-![Name](https://discordlist.space/api/bots/935516871040573460/badge?property=username)
+![](https://img.shields.io/badge/Discord%20Bot-discord.js-9cf)
 
 # **『Giveaway-Bot』**
 - [Bot-Invite](https://discord.com/api/oauth2/authorize?client_id=935516871040573460&permissions=412585684080&scope=bot)

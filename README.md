@@ -1,3 +1,7 @@
+# Bot-Status:
+
+![Name](https://discordlist.space/api/bots/935516871040573460/badge?property=username)
+
 # **『Giveaway-Bot』**
 - [Bot-Invite](https://discord.com/api/oauth2/authorize?client_id=935516871040573460&permissions=412585684080&scope=bot)
 - [Support-Server](https://discord.gg/WVKaXGpcJz)

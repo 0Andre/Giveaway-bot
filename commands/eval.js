@@ -51,14 +51,4 @@ module.exports.run = async (client, message, args) => {
     .setFooter(`${message.author.tag}`, client.user.displayAvatarURL())
     message.channel.send(errorembed);
   }
-}
-
-/*
-
-=======================================================
-|              Coded by: T.F.A#1887                   |
-|  Do not remove credits while sharing this project!  |
-|         You will get a copyright warning            |
-=======================================================
-
-*/
+};

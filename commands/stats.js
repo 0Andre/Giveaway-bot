@@ -35,13 +35,3 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
     name: "stats"
 }
-
-/*
-
-=======================================================
-|              Coded by: T.F.A#1887                   |
-|  Do not remove credits while sharing this project!  |
-|         You will get a copyright warning            |
-=======================================================
-
-*/
